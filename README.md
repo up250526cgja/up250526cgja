@@ -2,10 +2,14 @@
 ***
 (https://youtu.be/_HEC-ioPY6I?si=yr7e_gIkXJHLrr0f) Video interesante
 ***
+Egresado de el CETis80-Estudie Programacion
+***
+Conseptos basicos en python,C++ y html
+***
 *Gustos*
 -Baquetbol
 -Videojuegos
--
+***
 <!--
 **up250526cgja/up250526cgja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
