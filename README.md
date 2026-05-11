@@ -1,4 +1,4 @@
-## Hi there 👋
+ Hi there 👋
 
 <!--
 **up250526cgja/up250526cgja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
